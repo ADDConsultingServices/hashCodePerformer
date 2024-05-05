@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Check App State 'acme-test.uipath.com sa…'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "bTcX9umn0U-IU8wg-IKWEA",
+  "Reference": "J3m4_9cz5kGq5Gk1eK9TRQ/bTcX9umn0U-IU8wg-IKWEA",
+  "ParentRef": "J3m4_9cz5kGq5Gk1eK9TRQ/k5250K-L-kOZVHyA-4GFMw",
+  "Created": "2024-05-05T05:05:57.4646254Z",
+  "Updated": "2024-05-05T05:18:51.2200873Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
